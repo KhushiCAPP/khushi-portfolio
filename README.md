@@ -4,7 +4,7 @@ Welcome to my data visualization portfolio! This repository showcases my experti
 
 ## 🎯 About Me
 
-I'm Khushi Desai, a data visualization specialist and artist passionate about transforming complex data into compelling visual narratives. Currently pursuing my MS in Computational Analysis and Public Policy at The University of Chicago, I bring a unique interdisciplinary perspective that combines rigorous analytical skills with creative artistic vision.
+I'm Khushi Desai, a data scientist and artist passionate about transforming complex data into compelling visual narratives. Currently pursuing my MS in Computational Analysis and Public Policy at The University of Chicago, I bring a unique interdisciplinary perspective that combines rigorous analytical skills with creative artistic vision.
 
 My background spans quantitative political science, international relations, and public policy research, where I've developed expertise in statistical modeling, machine learning, and data visualization. As an artist, I approach data visualization not just as a technical challenge, but as an opportunity to create meaningful, aesthetically compelling stories that make complex information accessible to diverse audiences.
 
