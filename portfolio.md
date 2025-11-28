@@ -2,7 +2,7 @@
 
 Welcome to my data visualization portfolio! This repository showcases my expertise in transforming complex data into compelling visual stories using various tools and technologies.
 
-## 🎯 About Me
+## About Me
 
 I'm Khushi Desai, a data scientist and artist passionate about transforming complex data into compelling visual narratives. Currently pursuing my MS in Computational Analysis and Public Policy at The University of Chicago, I bring a unique interdisciplinary perspective that combines rigorous analytical skills with creative artistic vision.
 
@@ -10,7 +10,7 @@ My background spans quantitative political science, international relations, and
 
 I specialize in using data visualization to illuminate social and political phenomena, having worked on projects ranging from analyzing Chinese investments under the Belt & Road Initiative to examining the political economy of AI's impact on Indian labor markets. My work bridges the gap between academic research and public understanding, creating visualizations that inform policy discussions and social awareness.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Programming Languages:**
 - Python (Pandas, NumPy, Seaborn, Plotly, Matplotlib, SciKit-Learn, PyTorch)
@@ -40,7 +40,7 @@ I specialize in using data visualization to illuminate social and political phen
 - Policy-focused data storytelling
 - Qualitative and quantitative data integration
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### 1. America's Fringe Economy: Financial Exclusion and Political Participation
 **Tools Used:** R, ggplot2, ArcGIS, STATA
